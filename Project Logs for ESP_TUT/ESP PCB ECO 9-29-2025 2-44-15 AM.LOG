@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=D4 NewDesignator=D2
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Add Pin To Net: Unknown Pin: Pin D1-25
+Add Pin To Net: Unknown Pin: Pin D1-26
+Add Pin To Net: Unknown Pin: Pin D1-S5
+Add Pin To Net: Unknown Pin: Pin D1-S6
+Add Pin To Net: Unknown Pin: Pin D2-25
+Add Pin To Net: Unknown Pin: Pin D2-26
+Add Pin To Net: Unknown Pin: Pin D2-S5
+Add Pin To Net: Unknown Pin: Pin D2-S6
+Add Pin To Net: Unknown Pin: Pin D3-S5
+Add Pin To Net: Unknown Pin: Pin D3-S6
+Add Pin To Net: Unknown Pin: Pin D6-S5
+Add Pin To Net: Unknown Pin: Pin D6-S6
+Add Pin To Net: Unknown Pin: Pin D7-S5
+Add Pin To Net: Unknown Pin: Pin D7-S6
+Add Pin To Net: Unknown Pin: Pin D8-S5
+Add Pin To Net: Unknown Pin: Pin D8-S6

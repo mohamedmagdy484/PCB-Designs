@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=RTS_FTDI Pin=Q1-2
+Added Pin To Net: NetName=CHIP_PU Pin=Q1-3
+Added Pin To Net: NetName=DTR_FTDI Pin=Q2-2
+Added Pin To Net: NetName=BTN_GPIO0 Pin=Q2-3
